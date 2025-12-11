@@ -1,0 +1,3 @@
+This is line 3.
+Hello, this is line 1.
+i am learning how to use the nano text editor in Ubuntu WSL.
