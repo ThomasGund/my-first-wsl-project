@@ -1,1 +1,2 @@
 This is my first file created with nano in WSL.
+This is a new line added after the initial commit.
